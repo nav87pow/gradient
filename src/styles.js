@@ -184,11 +184,6 @@ linear-gradient(98.41deg, var(--primary-power-200) 0%, var(--hope-power-400) 100
 radial-gradient(70.75% 137.65% at 100.27% 112.9%, rgba(250, 161, 207, 0.2) 0%, rgba(255, 179, 218, 0) 100%) ,
 linear-gradient(104.86deg, var(--blue-500) -27.64%, var(--blue-100) 100%);
 
-/* I did not find the HEX numbers on the brand guide that supposed to be in this gradient*/
---gradient-linear-warm-500:
-linear-gradient(98.41deg, #FF5F6D 0%, #FFC371 100%);
---gradient-linear-cool-500:
-linear-gradient(98.41deg, #4CA1AF 0%, #4CA1AF 0.01%, #C4E0E5 100%);
 
 --gradient-linear-primary-500:
  linear-gradient(103.94deg, var(--primary-power-400) 6.94%, var( --hope-power-600) 100%);
@@ -232,6 +227,12 @@ linear-gradient(98.03deg, var(--blue-500) -15.29%, var(--baby-power-900)107.57%)
     radial-gradient(132.71% 141.6% at 33.76% -32.71%,rgba(173, 145, 255, 0.36) 0%, rgba(201, 181, 255, 0) 100%),
     radial-gradient(55.16% 159.36% at 90.11% -21.09%,var(--primary-power-500) 0%,rgba(243, 223, 249, 0) 47.92%,rgba(255, 179, 218, 0) 100%),
     linear-gradient( 208.55deg,var(--hope-power-400) -0.96%,var(--hope-power-200) 15.1%,rgba(255, 251, 253, 0) 82.38%);
+/* I did not find the HEX numbers on the brand guide that supposed to be in this gradient*/
+--gradient-linear-warm-500:
+linear-gradient(98.41deg, #FF5F6D 0%, #FFC371 100%);
+--gradient-linear-cool-500:
+linear-gradient(98.41deg, #4CA1AF 0%, #4CA1AF 0.01%, #C4E0E5 100%);
+
 }
 
 
